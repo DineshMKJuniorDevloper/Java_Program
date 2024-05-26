@@ -23,7 +23,7 @@ public class StringCharacterOccurance {
 				{
 					ch[j]='-';
 					count++;
-				}
+				} 
 			}
 			
 			
